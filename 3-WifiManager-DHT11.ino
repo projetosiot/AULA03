@@ -17,8 +17,8 @@
 
 #define TRIGGER_PIN D3
 
-const char *ssid = "pelicano"; //Node do SSID a ser transmitido
-const char *password = "pelicano"; //Senha
+const char *ssid = "******"; //Node do SSID a ser transmitido
+const char *password = "*****"; //Senha
 
 WiFiServer servidor(80);
 
