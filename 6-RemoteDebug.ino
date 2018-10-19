@@ -83,8 +83,8 @@ RemoteDebug Debug;
 
 // SSID and password
 
-const char* ssid = "automacao";
-const char* password = "moderno2018";
+const char* ssid = ".........";
+const char* password = "..........;
 
 // Host mDNS
 
