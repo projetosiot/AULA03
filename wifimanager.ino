@@ -10,8 +10,8 @@
 #include <ESP8266WebServer.h>     //Local WebServer used to serve the configuration portal
 #include <WiFiManager.h>          //https://github.com/tzapu/WiFiManager WiFi Configuration Magic
 
-const char *ssid = "pelicano"; //Node do SSID a ser transmitido
-const char *password = "pelicano"; //Senha
+const char *ssid = "******"; //Node do SSID a ser transmitido
+const char *password = "*******"; //Senha
 
 WiFiServer servidor(80);
 
