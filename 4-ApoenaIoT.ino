@@ -19,8 +19,8 @@ WiFiManager       wifiManager; // Inicializa a biblioteca do WiFiManager
 
 #define QTD_RELES 3
 String versaoApp = "v0.0.1";
-char * AP_NOME_SSID = "pelicano";
-char * AP_SSID_PASSWORD  = "pelicano";
+char * AP_NOME_SSID = "..........";
+char * AP_SSID_PASSWORD  = "..........";
 
 /*
 **  Segue abaixo a equivalencia das saidas Digitais entre nodeMCU e ESP8266 (na IDE do Arduino)
